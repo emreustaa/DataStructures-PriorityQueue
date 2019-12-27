@@ -1,0 +1,15 @@
+AliVeli#Su#23.56#2#5
+AhmetAk#Doğalgaz#453.56#3#2
+SametKaya#Telefon#56.56#1#4
+RemziSami#Elektrik#45.6#2#2
+MuhiddinÖztürk#Telefon#24.7#2#1
+Yavuzkeskin#Doğalgaz#766#4#7
+KamilKar#ADSL#453.56#1#2
+SultanKeskin#ADSL#56.56#3#8
+BüşraAy#Elektrik#45.6#4#9
+BeyzaKoşer#Su#24.7#5#6
+AlperMemiş#ADSL#23.56#5#2
+BuketDoğan#Doğalgaz#453.56#4#12
+MehmetDurmuş#Telefon#56.56#3#4
+SelinDaldaban#Elektrik#45.6#2#2
+HavvaGul#Doğalgaz#24.7#1#5
